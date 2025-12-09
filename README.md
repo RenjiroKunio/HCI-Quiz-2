@@ -10,7 +10,11 @@
 
 ![Navigation](https://github.com/RenjiroKunio/HCI-Quiz-2/blob/master/Images/Data%20Presentation.png)
 
+I used a Top Nav Bar, becuase it is the simples way for users to access and view it.
+
 ![Input & Forums Patters](https://github.com/RenjiroKunio/HCI-Quiz-2/blob/master/Images/Input.png)
+
+I used
 
 ![Feedback](https://github.com/RenjiroKunio/HCI-Quiz-2/blob/master/Images/Feedback%20and%20Status.png)
 
