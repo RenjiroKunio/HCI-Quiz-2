@@ -16,10 +16,9 @@ I used a Top Nav Bar, becuase it is the simples way for users to access and view
 ### Input & Forums
 ![Input & Forums Patters](https://github.com/RenjiroKunio/HCI-Quiz-2/blob/master/Images/Input.png)
 
-I used
-
 ### Feedback
 ![Feedback](https://github.com/RenjiroKunio/HCI-Quiz-2/blob/master/Images/Feedback%20and%20Status.png)
 
 ### Layout & Structure
 ![Layout & Structure Pattern](https://github.com/RenjiroKunio/HCI-Quiz-2/blob/master/Images/Layout%20and%20Structure.png)
+
